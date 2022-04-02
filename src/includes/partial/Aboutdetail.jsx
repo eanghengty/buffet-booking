@@ -38,6 +38,28 @@ const Aboutdetail = () =>{
                 </div>
             </div>
             </div>
+            <div>
+                Map
+            </div>
+            <div>
+                <div>
+                <div>
+                    <h2>Address</h2>
+                    <p>Location1</p>
+                </div>
+                <div>
+                    <h2>Facilities/Services</h2>
+                    <p>Wifi</p>
+                    <p>Payment options</p>
+                </div>
+                </div>
+                <div>
+                    <div>
+                        <h2>Atmosphere</h2>
+                        <p>Familiy/Friend meeting</p>
+                    </div>
+                </div>
+            </div>
         </div>
         
     )
