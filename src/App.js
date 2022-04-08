@@ -10,7 +10,7 @@ import Pagedetail from './components/Pagedetail';
 function App() {
   return (
     <div className="App">
-      <Pagedetail></Pagedetail>
+      <Homepage></Homepage>
     </div>
   );
 }

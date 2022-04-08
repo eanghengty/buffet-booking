@@ -1,0 +1,151 @@
+.header-div-1{
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    height:60px;
+    width:100%;
+    background-color:#57ac3e;
+}
+.header-div-4{
+    display: flex;
+    align-items:center;
+    justify-content: right;
+    width: 55%;
+}
+.header-div-3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:60%;
+
+}
+.header-div-7{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 10%;
+    
+}
+.header-div-5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 35%;
+    
+}
+.header-div-2{
+    width: 35%;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+
+}
+.header-div-2 img{
+    width: 50px;
+    
+}
+
+.header-div-4 img{
+    width:25px;
+}
+.header-div-4 p{
+    color: white;
+    margin: 0;
+    padding:0;
+    width: fit-content;
+    padding:10px 0;
+}
+.header-div-4 div{
+    border: 1px solid #6D41A1;
+    width: fit-content;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding:3px 15px;
+}
+.header-div-6{
+    width:1px !important;
+    background-color: #6D41A1;
+    height: 30px;
+}
+.header-div-5 .divdiv{
+    width: 5%;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    
+}
+.header-div-5 .divp{
+    width: 65%;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    
+}
+.header-div-5 .divimg{
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.header-div-5 p{
+    color: white;
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+}
+
+.header-div-5 img{
+    width:40px;
+}
+.header-div-8, .header-div-9, .header-div-10{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+    
+    
+    
+    
+}
+.header-div-8 p, .header-div-9 p, .header-div-10 p{
+    padding: 0;
+    margin: 0;
+    font-size: 14px;
+}
+.header-div-8 a, .header-div-9 a, .header-div-10 a{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    color: black;
+}
+.header-div-8:hover, .header-div-9:hover, .header-div-10:hover{
+    filter: brightness(1.2);
+}
+.header-div-8 a:hover, .header-div-9 a:hover, .header-div-10 a:hover{
+    color: #6D41A1;
+}
+
+.holder .icon{
+    color: #6D41A1;
+    font-size: 20px;
+    
+}
+.holderitem{
+    top: 58px;
+    position: absolute;
+    height: fit-content;
+    width: fit-content;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: white;
+    
+    box-shadow: 1px 1px 1px 2px rgb(0, 0, 0, 0.5);
+    
+}
+
+
