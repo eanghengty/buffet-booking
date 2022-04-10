@@ -1,0 +1,29 @@
+.eachtheme1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin:0 20px;
+    .eachtheme2{
+        img{
+            width:200px;
+            height: 120px;
+        }
+    }
+    .eachtheme3{
+        p{
+            padding:0;
+            margin:0;
+        }
+
+    }
+    .eachtheme4{
+        p{
+            padding:0;
+            margin:0;
+            font-size:14px;
+            font-weight:lighter;
+        }
+    }
+
+}

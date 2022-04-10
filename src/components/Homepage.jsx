@@ -12,25 +12,15 @@ const Homepage = () =>{
     <div>
     <Header/>
     <Searchbar/>
-    <div>
-        <p>Brands</p>
-    </div>
+    
     <Brand/>
-    <div>
-        <p>Locations</p>
-    </div>
+    
     <Location/>
-    <div>
-        <p>Themes</p>
-    </div>
+    
     <Theme/>
-    <div>
-        <p>Promotions</p>
-    </div>
+    
     <Promotion/>
-    <div>
-        <p>Partnerships</p>
-    </div>
+    
     <Partnership/>
     <Footer/>
 </div>

@@ -18,7 +18,9 @@ const Searchbar =()=>{
 
                 <div className="searchbar-div-5">
 
-                <p className="searchbar-p-1">Book it now</p>
+               <div className="divaddon">
+               <p className="searchbar-p-1">Book it now</p>
+               </div>
 
                 </div>
 

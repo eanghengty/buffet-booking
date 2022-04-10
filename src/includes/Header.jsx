@@ -1,5 +1,5 @@
 import React from "react";
-import './../style/header.css'
+import './../style/header.scss'
 import logo from './../images/logo.png'
 import cambodiaflag from './../images/cambodia.png'
 import sampleprofile from './../images/sampleprofile2.png'

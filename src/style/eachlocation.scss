@@ -1,0 +1,27 @@
+.eachlocationdiv1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    margin: 0 20px;
+}
+.eachlocationdiv2{
+    img{
+        width: 200px;
+    }
+}
+.eachlocationdiv3{
+    p{
+        margin:0;
+        padding:0;
+    }
+}
+.eachlocationdiv4{
+    p{
+        margin:0;
+        padding:0;
+        
+        font-weight: lighter;
+        font-size: 14px;
+    }
+}
