@@ -2,6 +2,7 @@ import React from "react";
 import './../style/footer.scss'
 import logo from './../images/logo.png'
 import {FaGithubAlt, FaTelegramPlane} from 'react-icons/fa'
+
 const Footer = () =>{
     return(
         <div className="footerdiv1">

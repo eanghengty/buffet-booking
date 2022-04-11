@@ -1,0 +1,101 @@
+.myprofilediv1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    margin-top:50px;
+}
+.myprofilediv2{
+    display: flex;
+    align-items: flex-start;
+    justify-content: start;
+    width: 68%;
+    flex-direction: column;
+    border:1px solid #E7E7E7;
+    padding: 20px 25px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+.myprofilediv3, .myprofilediv13, .myprofilediv21, .myprofilediv29, .myprofilediv39{
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    flex-direction: column;
+    width: 60%;
+    
+}
+.myprofilediv4 , .myprofilediv14,.myprofilediv22  ,.myprofilediv30, .myprofilediv40{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    
+}
+.myprofileline{
+     width: 1px;
+     height: 20px;
+     background-color: #75A141;
+     margin: 0 5px;
+}
+.myprofilediv6, .myprofilediv9, .myprofilediv17, .myprofilediv25, .myprofilediv33, .myprofilediv35, .myprofilediv34 ,.myprofilediv42 , .myprofilediv45 {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    margin-left:5px ;
+    
+}
+.myprofilediv8 input, .myprofilediv11 input , .myprofilediv19 select , .myprofilediv27 input, .myprofilediv37 input , .myprofilediv27 input , .myprofilediv42 input , .myprofilediv45 input{
+    margin: 0 20px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    border: 1px solid #E7E7E7;
+   
+}
+.myprofilediv12 ,.myprofilediv20, .myprofilediv28, .myprofilediv38 , .myprofilediv48{
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    width: 100%;
+    button{
+        padding:10px 50px;
+        color: #75A141;
+        background-color: white;
+        border: 1px solid #75A141;
+        border-radius: 5px;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        -ms-border-radius: 5px;
+        -o-border-radius: 5px;
+        cursor:pointer;
+}
+}
+.myprofilediv13, .myprofilediv3, .myprofilediv26 , .myprofilediv42 , .myprofilediv45 {
+    p{
+        width: 150px;
+    }
+}
+.myprofilediv18, .myprofilediv19{
+    height: 100px;
+}
+.myprofilediv18 {
+   
+
+    p{
+        height: fit-content;
+        margin: 0;
+    
+    }
+    
+}
+.myprofilediv35{
+    width: 150px;
+}
+.myprofilediv49{
+    width: 28%;
+}
