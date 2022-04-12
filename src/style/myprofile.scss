@@ -1,18 +1,24 @@
 .myprofilediv1{
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     justify-content: center;
     width: 100%;
     margin-top:50px;
+    height: 100vh;
+    
 }
 .myprofilediv2{
     display: flex;
     align-items: flex-start;
-    justify-content: start;
+    justify-content: center;
     width: 68%;
     flex-direction: column;
     border:1px solid #E7E7E7;
-    padding: 20px 25px;
+    padding:0px 10px;
+    height: 100%;
+   
+   
+    
     border-radius: 5px;
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
@@ -98,4 +104,8 @@
 }
 .myprofilediv49{
     width: 28%;
+    height: 100%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: start;
 }
