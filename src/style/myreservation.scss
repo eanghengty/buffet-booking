@@ -1,0 +1,72 @@
+$boxwidth:70%;
+$boxheight:80%;
+$paddingbox:20px;
+.myreservationdiv1{
+    display: flex;
+    align-items:center;
+    justify-content:center;
+    height:100vh;
+    width:97%;
+}
+.myreservationdiv2{
+    display: flex;
+    flex-direction:column;
+    align-items:start;
+    justify-content:start;
+    width:$boxwidth;
+    height:$boxheight;
+    
+    border:1px solid #e0e0e0;
+}
+.myreservationdiv3 , .myreservationdiv7{
+    display:flex;
+    flex-direction:column;
+    align-items:start;
+    justify-content:center;
+    width: 100%;
+    margin-left: 20px;
+    margin-top:20px;
+}
+.myreservationdiv4, .myreservationdiv8{
+    display: flex;
+    align-items:center;
+    justify-content:center;
+
+}
+.myreservationline{
+    width:2px;
+    height:25px;
+    background-color:red;
+    margin:0 10px 0 0;
+}
+.myreservationbox{
+    width:60%;
+    padding:20px;
+    border:2px solid #e0e0e0;
+    border-radius:4px;
+    -webkit-border-radius:4px;
+    -moz-border-radius:4px;
+    -ms-border-radius:4px;
+    -o-border-radius:4px;
+}
+
+
+
+
+.myreservationdiv10{
+    display:flex;
+    align-items:start;
+    justify-content:start;
+    width:30%;
+    height:80%;
+    border-top:2px solid #e0e0e0;
+    
+    
+}
+.myreservationdiv{
+    
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    width:100%;
+}

@@ -7,10 +7,13 @@ import Homepage from './components/Homepage';
 import Myprofile from './components/Myprofile';
 import Searchpage from './components/Searchpage';
 import Pagedetail from './components/Pagedetail';
+import Myreservation from './components/Myreservation';
+import Myfavourite from './components/Myfavourite';
+
 function App() {
   return (
     <div className="App">
-      <Searchpage/>
+      <Pagedetail/>
     </div>
   );
 }

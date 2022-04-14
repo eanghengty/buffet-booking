@@ -1,0 +1,41 @@
+.tabdetaildiv1{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+
+}
+.tabdetaildiv2{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    width: 100%;
+    height:70px;
+    div{
+        display:flex;
+        align-items:center;
+        justify-content:center;
+        width:30%;
+        &:first-child{
+            a{
+                color:yellowgreen;
+                border-bottom: 1px solid yellowgreen;
+            }
+        }
+        
+        a{
+            text-decoration:none;
+            color:black;
+           
+            &:hover{
+                color:yellowgreen;
+                border-bottom: 1px solid yellowgreen;
+            }
+            &:active{
+                color:yellowgreen;
+                border-bottom: 1px solid yellowgreen;
+            }
+            padding:10px;
+        }
+    }
+}
