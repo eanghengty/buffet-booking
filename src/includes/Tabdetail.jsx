@@ -1,5 +1,7 @@
 import Menudetail from "./partial/Menudetail";
 import './../style/tabdetail.scss'
+import Aboutdetail from "./partial/Aboutdetail";
+import Reviewdetail from "./partial/Reviewdetail";
 const Tabdetail = () =>{
     return(
         <div className="tabdetaildiv1">
@@ -8,8 +10,8 @@ const Tabdetail = () =>{
             <div><a href="#">About</a></div>
             <div><a href="#">Review</a></div>
             </div>
-            <div>
-                <Menudetail></Menudetail>
+            <div className="tabdetaildiv3">
+                <Reviewdetail/>
             </div>
         </div>
     )
