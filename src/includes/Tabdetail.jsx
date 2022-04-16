@@ -10,6 +10,7 @@ const Tabdetail = () =>{
             <div><a href="#">About</a></div>
             <div><a href="#">Review</a></div>
             </div>
+            <div className="tabdetaildiv4"></div>
             <div className="tabdetaildiv3">
                 <Reviewdetail/>
             </div>

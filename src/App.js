@@ -9,11 +9,12 @@ import Searchpage from './components/Searchpage';
 import Pagedetail from './components/Pagedetail';
 import Myreservation from './components/Myreservation';
 import Myfavourite from './components/Myfavourite';
+import Partnershippage from './components/Partnershippage';
 
 function App() {
   return (
     <div className="App">
-      <Pagedetail/>
+      <Partnershippage/>
     </div>
   );
 }
