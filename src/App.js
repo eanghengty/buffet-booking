@@ -14,7 +14,8 @@ import Partnershippage from './components/Partnershippage';
 function App() {
   return (
     <div className="App">
-      <Partnershippage/>
+      <Pagedetail/>
+      
     </div>
   );
 }
